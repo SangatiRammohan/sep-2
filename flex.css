@@ -1,0 +1,78 @@
+.main{
+    background-color: rgb(27, 27, 169);
+    color: white;
+    text-align: center;
+       border-radius: 2%;
+       padding: 30px;
+}
+.main .para{
+    color: white
+}
+
+.start{
+    border-radius: 5%;
+    display: flex;
+    align-items:last baseline;
+    justify-content: space-evenly;
+   
+}
+.one{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 2%;
+}
+.one .para1{
+    color: orange;
+    font-size: 30px;
+}
+.one h1{
+    color: blue;
+}
+.two{
+    height: 487px;
+    width: 300px;
+    background-color: white;
+    border-radius: 2%;
+    
+}
+.two .para2{
+    color: orange;
+    font-size: 30px;
+}
+.two h1{
+    color: blue;
+}
+.two #para{
+    text-align: center;
+    background-color: bisque;
+    color: blue;
+    padding: 20px;
+    margin: 0 30px 0 30px;
+}
+.two button{
+    width: 150px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    
+}
+.two button a{
+    color: white;
+}
+.three{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 2%;
+}
+.three .para3{
+    font-size: 30px;
+    color: orange;
+}
+.three h1{
+    color: blue;
+}
+p{
+    color: black;
+}
